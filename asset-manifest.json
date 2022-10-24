@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/transactions-dashboard/static/css/main.8a6f1c35.css",
+    "main.js": "/transactions-dashboard/static/js/main.4d0734c8.js",
+    "static/media/spotify.png": "/transactions-dashboard/static/media/spotify.6ca15dc943f8e81c7b61.png",
+    "static/media/viza.svg": "/transactions-dashboard/static/media/viza.424e550ac3b6d733248777755389a835.svg",
+    "static/media/mastercard.svg": "/transactions-dashboard/static/media/mastercard.a926ed912779093767a0cd8687855a5f.svg",
+    "static/media/canada-icon.svg": "/transactions-dashboard/static/media/canada-icon.68abd295c878b6f0d6ac60ab4e30e123.svg",
+    "index.html": "/transactions-dashboard/index.html",
+    "main.8a6f1c35.css.map": "/transactions-dashboard/static/css/main.8a6f1c35.css.map",
+    "main.4d0734c8.js.map": "/transactions-dashboard/static/js/main.4d0734c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a6f1c35.css",
+    "static/js/main.4d0734c8.js"
+  ]
+}
